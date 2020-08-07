@@ -1,7 +1,7 @@
 import React from 'react';
-import Menu from './components/Menu/index'
+import Menu from '../../components/Menu/index'
 
-function App() {
+function Home() {
   return (
     <div>
       <Menu />
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
