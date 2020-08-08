@@ -1,25 +1,25 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Ismos para entender o Cinema - Cinemascope",
+      "link": "https://cinemascope.com.br/cinemascopetv/ismos-para-entender-o-cinema/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Movimentos e tendências do cinema",
+        "url": "https://cinemascope.com.br/cinemascopetv/ismos-para-entender-o-cinema/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Você está pronto para entender e explorar o Cinema? #CRCinema",
+          "url": "https://www.youtube.com/watch?v=ZYOq0WdeGMs"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "ISMOS PARA ENTENDER O CINEMA",
+          "url": "https://www.youtube.com/watch?v=KxghG7-xe08&t=22s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Ilusionismo | CINEMA MUDO (1895 - 1927)",
+          "url": "https://www.youtube.com/watch?v=xEHUvbuJmvg"
         },
         {
           "titulo": "Pare de chutar e aprenda a display: inline #01",
@@ -100,24 +100,24 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": " Proximos Lonçamentos para ficar de olho ",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Judas e o Messias Negro",
+          "url": "https://www.youtube.com/watch?v=hX3o0kKJeZk"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Estou pensando em acabar com tudo",
+          "url": "https://www.youtube.com/watch?v=TLDLLzYecGw"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Antebellum",
+          "url": "https://www.youtube.com/watch?v=7MPib67BDHY"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "A Crônica Francesa",
+          "url": "https://www.youtube.com/watch?v=OjTEmaOmwVI"
         }
       ]
     },
